@@ -1,1 +1,1 @@
-Courses: Python, DevOps, AI-ML, Cybersecurity 
+Courses: Python, DevOps, AI-ML, Cloud, Cybersecurity 
